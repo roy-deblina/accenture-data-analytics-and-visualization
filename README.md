@@ -86,3 +86,6 @@ Based on the analysis, the following insights were derived:
 The analysis provided valuable insights into Social Buzz's content strategy. Identifying the top five content categories—Animals, Science, Healthy Eating, Food, and Technology—helps understand user preferences and guide future content creation. With 16 unique categories and high engagement in May, Social Buzz can leverage these insights to enhance user experience and optimize content delivery. This project not only supports Social Buzz in its scaling efforts but also prepares the company for a successful IPO by showcasing robust data-driven decision-making capabilities.
 
 By effectively utilizing data analysis and visualization techniques, this project demonstrates the importance of data-driven strategies in managing and optimizing large-scale social media platforms.
+
+Presentation link : https://shorturl.at/ICMDS
+
